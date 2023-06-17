@@ -13,3 +13,6 @@ It utilizes data structures like Graph, Hashmap, Set, and ArrayList, along with 
 8.Total bill amount calculation<br>
 9.Order confirmation and Order cancellation<br>
 10.Option to delete a pizza from the order<br>
+
+#### Delivery Locations Graph:
+![Alt text](https://github.com/Meenakshi1108/cbe-pizza-delivery-system/assets/93326976/d9e06455-3c61-4a00-917f-a4153d631450)
